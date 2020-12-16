@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26beb273-08e9-446c-9520-e767a55738cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1jwvHDJ6O0Dpd0zieFdesAArMoq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26beb273-08e9-446c-9520-e767a55738cd" name="Default Changelist" comment="" />
+      <created>1604727879555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604727879555</updated>
+      <workItem from="1604727883502" duration="2499000" />
+      <workItem from="1604821814303" duration="4596000" />
+      <workItem from="1605312792731" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="134" y="23" key="SettingsEditor" timestamp="1604734370956">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="134" y="23" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1604734370956" />
+    <state x="301" y="23" width="884" height="823" key="search.everywhere.popup" timestamp="1605076766720">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="301" y="23" width="884" height="823" key="search.everywhere.popup/0.23.1440.823@0.23.1440.823" timestamp="1605076766720" />
+  </component>
+</project>

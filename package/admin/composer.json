@@ -1,0 +1,24 @@
+{
+    "name": "safal/admin",
+    "description": "\"Simple and fast admin panel generator\"",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Safal Pokharel",
+            "email": "pokharelsafal66@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Safal\\Admin\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Safal\\Admin\\Tests\\": "tests/"
+        }
+    }
+}
